@@ -1,0 +1,14 @@
+com\sri\socialMediaApi\repository\CommentRepository.class
+com\sri\socialMediaApi\repository\PostRepository.class
+com\sri\socialMediaApi\entity\Comment.class
+com\sri\socialMediaApi\entity\User.class
+com\sri\socialMediaApi\controller\CommentController.class
+com\sri\socialMediaApi\service\CommentService.class
+com\sri\socialMediaApi\entity\Post.class
+com\sri\socialMediaApi\service\PostService.class
+com\sri\socialMediaApi\controller\UserController.class
+com\sri\socialMediaApi\controller\PostController.class
+com\sri\socialMediaApi\App.class
+com\sri\socialMediaApi\repository\UserRepository.class
+com\sri\socialMediaApi\view\Following.class
+com\sri\socialMediaApi\service\UserService.class
